@@ -80,36 +80,6 @@ The goal is to help Amazon Prime optimize content recommendations, enhance viewe
 
 ---
 
-## 🚀 **How to Run the Project**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your_username/amazon-prime-eda.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd amazon-prime-eda
-```
-
-3. Install the necessary libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Open the `amazon_prime_analysis.ipynb` file and run all cells to view the analysis and charts.
-
----
-
 ## 🏁 **Conclusion**
 
 This project demonstrates how EDA can reveal critical insights for strategic decision-making in the streaming industry. By balancing data-driven insights with creative content production, Amazon Prime can continue to grow its platform, captivate audiences, and maintain a competitive edge in the evolving streaming landscape.
