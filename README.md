@@ -4,10 +4,6 @@
 
 ## 🏷️ Project Type: **Exploratory Data Analysis (EDA) - Unsupervised**
 
-## 👤 Contribution: **Individual**
-
-### 🧑‍💻 Team Member: **Veerendra Kashyap**
-
 ---
 
 ## 📚 **Project Summary**
