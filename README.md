@@ -118,12 +118,3 @@ With these findings, Amazon Prime is well-positioned to optimize its content lib
 
 ---
 
-## 📩 **Connect with Me:**
-
-- **GitHub:** [Your GitHub Profile](https://github.com/your_username)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/veerendrakashyap)
-
----
-
-Let me know if you’d like me to tweak anything or add more details! 🚀
-
